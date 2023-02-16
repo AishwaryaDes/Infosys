@@ -1,3 +1,3 @@
 # Infosys
 First repository
-this is mt first commit
+this is my first commit
